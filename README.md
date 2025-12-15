@@ -39,3 +39,6 @@ Abdulrahman Haggam
 
 ## Disclaimer
 This project was developed strictly for educational and academic purposes in a simulated environment, in accordance with ethical cybersecurity practices. 
+
+## Academic Use
+This project was independently developed as part of an academic portfolio for scholarship and educational purposes.
