@@ -1,0 +1,32 @@
+# Methodology
+
+## 1. Data Collection
+This project uses publicly available and ethically sourced datasets to simulate network traffic and security logs.
+No real user data or live production systems were involved.
+
+## 2. Data Preprocessing
+The collected data was:
+- Cleaned to remove inconsistencies
+- Normalized to ensure uniform scale
+- Labeled as normal or suspicious behavior
+
+This preprocessing step ensures accurate and reliable model training.
+
+## 3. Feature Extraction
+Relevant network features such as traffic patterns, connection frequency, and anomaly indicators were extracted for analysis.
+
+## 4. Machine Learning Models
+The following machine learning algorithms were applied:
+- Random Forest
+- Support Vector Machine (SVM)
+
+These models were selected for their effectiveness in anomaly detection tasks.
+
+## 5. Evaluation
+System performance was evaluated using:
+- Detection accuracy
+- False positive rate
+- System responsiveness
+
+## 6. Ethical Considerations
+All experiments were conducted in a simulated and educational environment in accordance with ethical cybersecurity standards.
